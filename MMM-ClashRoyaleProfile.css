@@ -1,0 +1,88 @@
+.MMM-ClashRoyaleProfile {
+    color: #fff;
+}
+
+.MMM-ClashRoyaleProfile .innerStacked {
+    margin: 5px 0;
+}
+
+.MMM-ClashRoyaleProfile .trophieWrapper {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.MMM-ClashRoyaleProfile .profileWrapper {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.MMM-ClashRoyaleProfile .battlesWrapper {
+    /*font-size: 15px;
+    line-height: 19px;*/
+    text-align: center;
+}
+
+.MMM-ClashRoyaleProfile .chestWrapper {
+
+}
+
+.MMM-ClashRoyaleProfile .grayscale {
+    -webkit-filter: grayscale(100%);
+}
+
+.MMM-ClashRoyaleProfile .card {
+    height: 30px;
+}
+
+.MMM-ClashRoyaleProfile .chestContainer {
+    position: relative;
+    display: inline-block;
+    max-width: 100px;
+}
+
+.MMM-ClashRoyaleProfile .chest {
+    height: 40px;
+}
+
+.MMM-ClashRoyaleProfile .chestValue {
+    font-size: 10pt;
+    color: black;
+    line-height: 1em;
+
+    border-radius: 500rem;
+    min-width: 0.8em;
+    min-height: 0.8em;
+    padding: .1em;
+
+    background: none #fff;
+    border: 1px solid rgba(34,36,38,.15);
+
+    width: auto;
+    left: auto;
+    right: 0;
+
+    position: absolute;
+    margin: 0;
+    top: 0;
+}
+
+.MMM-ClashRoyaleProfile table.battleTable {
+    width: 200px;
+
+    margin: 0 auto;
+    text-align: left;
+}
+
+.MMM-ClashRoyaleProfile tr.battleRow {
+    padding: 0;
+    margin: 0;
+    max-width: 150px;
+    min-width: 30px;
+}
+
+.MMM-ClashRoyaleProfile td.battleCol, .MMM-ClashRoyaleProfile td.timeCol {
+    font-size: 15px;
+    line-height: 19px;
+    padding: 0;
+    margin: 0;
+}
